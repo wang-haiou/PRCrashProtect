@@ -1,0 +1,2 @@
+# PRCrashProtect
+防止常见的bug导致crash，并收集crash原因和堆栈信息；收集导致crash的错误信息和堆栈信息。
